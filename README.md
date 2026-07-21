@@ -13,6 +13,7 @@ Author - Supriya Kumari
 | [0006-zigzag-conversion](https://github.com/suppcodes/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
