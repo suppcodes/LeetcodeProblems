@@ -11,6 +11,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/suppcodes/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
@@ -20,4 +21,12 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
