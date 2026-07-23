@@ -22,6 +22,7 @@ Author - Supriya Kumari
 | [0015-3sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Author - Supriya Kumari
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -50,4 +52,5 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0015-3sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
