@@ -22,6 +22,7 @@ Author - Supriya Kumari
 | [0015-3sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Trie
@@ -37,6 +38,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
