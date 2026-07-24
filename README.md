@@ -39,6 +39,7 @@ Author - Supriya Kumari
 | ------- |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Author - Supriya Kumari
 | ------- |
 | [0015-3sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
