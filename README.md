@@ -11,6 +11,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/suppcodes/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -32,11 +33,13 @@ Author - Supriya Kumari
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
