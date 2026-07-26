@@ -27,6 +27,7 @@ Author - Supriya Kumari
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Author - Supriya Kumari
 | ------- |
 | [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
@@ -64,8 +66,17 @@ Author - Supriya Kumari
 | [0015-3sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
