@@ -24,6 +24,7 @@ Author - Supriya Kumari
 | [0018-4sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/suppcodes/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ Author - Supriya Kumari
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/suppcodes/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
