@@ -28,6 +28,7 @@ Author - Supriya Kumari
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Author - Supriya Kumari
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Author - Supriya Kumari
 | [0018-4sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +82,8 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
