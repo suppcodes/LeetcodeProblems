@@ -33,6 +33,7 @@ Author - Supriya Kumari
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/suppcodes/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suppcodes/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
 | ------- |
@@ -99,4 +100,8 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suppcodes/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
