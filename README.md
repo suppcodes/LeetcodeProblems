@@ -51,6 +51,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Author - Supriya Kumari
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Author - Supriya Kumari
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suppcodes/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/suppcodes/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
