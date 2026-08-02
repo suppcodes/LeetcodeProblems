@@ -33,6 +33,7 @@ Author - Supriya Kumari
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/suppcodes/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/suppcodes/LeetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suppcodes/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
@@ -88,6 +89,7 @@ Author - Supriya Kumari
 | [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/suppcodes/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/suppcodes/LeetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
