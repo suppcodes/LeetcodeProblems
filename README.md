@@ -35,6 +35,7 @@ Author - Supriya Kumari
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/suppcodes/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suppcodes/LeetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/suppcodes/LeetcodeProblems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suppcodes/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
@@ -92,6 +93,7 @@ Author - Supriya Kumari
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/suppcodes/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suppcodes/LeetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/suppcodes/LeetcodeProblems/tree/master/2187-minimum-time-to-complete-trips) |
 ## Divide and Conquer
 |  |
 | ------- |
