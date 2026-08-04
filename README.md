@@ -30,6 +30,7 @@ Author - Supriya Kumari
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/suppcodes/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Author - Supriya Kumari
 | [0018-4sum](https://github.com/suppcodes/LeetcodeProblems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
