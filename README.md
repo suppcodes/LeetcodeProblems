@@ -16,6 +16,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
@@ -57,6 +58,7 @@ Author - Supriya Kumari
 | ------- |
 | [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/suppcodes/LeetcodeProblems/tree/master/0367-valid-perfect-square) |
@@ -117,4 +119,8 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suppcodes/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
