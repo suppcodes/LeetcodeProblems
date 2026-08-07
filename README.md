@@ -16,6 +16,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/suppcodes/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Array
