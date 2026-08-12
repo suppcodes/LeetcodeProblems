@@ -16,6 +16,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suppcodes/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suppcodes/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/suppcodes/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/suppcodes/LeetcodeProblems/tree/master/0058-length-of-last-word) |
@@ -56,6 +57,7 @@ Author - Supriya Kumari
 | ------- |
 | [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suppcodes/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -154,4 +156,8 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/suppcodes/LeetcodeProblems/tree/master/0056-merge-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suppcodes/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
