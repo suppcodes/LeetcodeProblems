@@ -32,6 +32,7 @@ Author - Supriya Kumari
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suppcodes/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/suppcodes/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/suppcodes/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ Author - Supriya Kumari
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/suppcodes/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/suppcodes/LeetcodeProblems/tree/master/0367-valid-perfect-square) |
@@ -138,6 +140,7 @@ Author - Supriya Kumari
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suppcodes/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 ## Backtracking
 |  |
