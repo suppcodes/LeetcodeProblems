@@ -160,4 +160,12 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suppcodes/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/suppcodes/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/suppcodes/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
