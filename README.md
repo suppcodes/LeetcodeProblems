@@ -74,6 +74,7 @@ Author - Supriya Kumari
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/suppcodes/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0367-valid-perfect-square](https://github.com/suppcodes/LeetcodeProblems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
@@ -153,11 +154,13 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/suppcodes/LeetcodeProblems/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/suppcodes/LeetcodeProblems/tree/master/0089-gray-code) |
 ## Quicksort
 |  |
 | ------- |
