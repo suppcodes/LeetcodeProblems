@@ -20,6 +20,7 @@ Author - Supriya Kumari
 | [0038-count-and-say](https://github.com/suppcodes/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/suppcodes/LeetcodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/suppcodes/LeetcodeProblems/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 ## Array
@@ -71,6 +72,7 @@ Author - Supriya Kumari
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/suppcodes/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suppcodes/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/suppcodes/LeetcodeProblems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
@@ -136,6 +138,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suppcodes/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/suppcodes/LeetcodeProblems/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
