@@ -41,6 +41,7 @@ Author - Supriya Kumari
 | [0066-plus-one](https://github.com/suppcodes/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suppcodes/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
@@ -60,6 +61,7 @@ Author - Supriya Kumari
 | [0012-integer-to-roman](https://github.com/suppcodes/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suppcodes/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suppcodes/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suppcodes/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suppcodes/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suppcodes/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -122,6 +124,7 @@ Author - Supriya Kumari
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suppcodes/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -177,4 +180,12 @@ Author - Supriya Kumari
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/suppcodes/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suppcodes/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suppcodes/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
