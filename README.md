@@ -35,6 +35,7 @@ Author - Supriya Kumari
 | [0027-remove-element](https://github.com/suppcodes/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suppcodes/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suppcodes/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/suppcodes/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/suppcodes/LeetcodeProblems/tree/master/0056-merge-intervals) |
@@ -135,6 +136,7 @@ Author - Supriya Kumari
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/suppcodes/LeetcodeProblems/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
@@ -148,6 +150,7 @@ Author - Supriya Kumari
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/suppcodes/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/suppcodes/LeetcodeProblems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/suppcodes/LeetcodeProblems/tree/master/0097-interleaving-string) |
